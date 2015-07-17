@@ -1,5 +1,5 @@
 <?php
-namespace JustMomments\Utils;
+namespace JustMoments\Utils;
 
 class String
 {

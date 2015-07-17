@@ -1,6 +1,6 @@
 <?php
 
-namespace JustMomments\Controller;
+namespace JustMoments\Controller;
 
 abstract class FrontController
 {

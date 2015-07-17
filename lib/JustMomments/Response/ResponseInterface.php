@@ -1,6 +1,6 @@
 <?php
 
-namespace JustMomments\Response;
+namespace JustMoments\Response;
 
 interface ResponseInterface
 {

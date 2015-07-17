@@ -1,9 +1,9 @@
 <?php
 
-use JustMomments\Request\Request;
-use JustMomments\Response\JsonResponse;
-use JustMomments\Response\HtmlResponse;
-use JustMomments\Controller\FrontController as Base;
+use JustMoments\Request\Request;
+use JustMoments\Response\JsonResponse;
+use JustMoments\Response\HtmlResponse;
+use JustMoments\Controller\FrontController as Base;
 
 class IndexController extends Base
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace JustMomments\Response;
+namespace JustMoments\Response;
 
-use JustMomments\Response\ResponseInterface;
+use JustMoments\Response\ResponseInterface;
 
 class HtmlResponse implements ResponseInterface
 {

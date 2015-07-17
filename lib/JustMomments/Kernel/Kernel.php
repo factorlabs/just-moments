@@ -1,9 +1,9 @@
 <?php
 
-namespace JustMomments\Kernel;
+namespace JustMoments\Kernel;
 
-use JustMomments\ServiceContainer\Container;
-use JustMomments\Routing\Router;
+use JustMoments\ServiceContainer\Container;
+use JustMoments\Routing\Router;
 
 class Kernel
 {

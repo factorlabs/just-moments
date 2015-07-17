@@ -1,9 +1,9 @@
 <?php
 
-namespace JustMomments\Response;
+namespace JustMoments\Response;
 
-use JustMomments\Request\Request;
-use JustMomments\Response\ResponseInterface;
+use JustMoments\Request\Request;
+use JustMoments\Response\ResponseInterface;
 
 class JsonResponse implements ResponseInterface
 {

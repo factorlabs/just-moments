@@ -5,9 +5,9 @@ error_reporting(E_ALL);
 
 require_once __DIR__ . '/../bootstrap.php';
 
-use JustMomments\Request\Request;
-use JustMomments\Routing\Router;
-use JustMomments\Kernel\Kernel;
+use JustMoments\Request\Request;
+use JustMoments\Routing\Router;
+use JustMoments\Kernel\Kernel;
 
 $router = new Router(new Request());
 

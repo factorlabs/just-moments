@@ -1,8 +1,8 @@
 <?php
 
-namespace JustMomments\Routing;
+namespace JustMoments\Routing;
 
-use JustMomments\Request\Request;
+use JustMoments\Request\Request;
 
 class Router
 {   

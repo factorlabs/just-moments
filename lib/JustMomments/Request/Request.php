@@ -1,6 +1,6 @@
 <?php
 
-namespace JustMomments\Request;
+namespace JustMoments\Request;
 
 class Request
 {
