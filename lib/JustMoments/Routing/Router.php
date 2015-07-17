@@ -2,7 +2,7 @@
 
 namespace JustMoments\Routing;
 
-use JustMoments\Request\Request;
+use JustMoments\Http\Request\Request;
 
 class Router
 {   
